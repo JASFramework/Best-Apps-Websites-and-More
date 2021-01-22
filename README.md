@@ -1,2 +1,5 @@
 # Best-Apps-Websites-and-More
-A good place to find useful tools and games 
+
+Apps and Tools: (Please Note That By "Apps/Tools" I Mean .EXE, .APK, .JS, .HTML, and More File Extension Types.)
+
+
