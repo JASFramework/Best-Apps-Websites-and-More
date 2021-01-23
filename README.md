@@ -7,7 +7,7 @@ ___
 
 [Malwarebytes](https://www.malwarebytes.com/) - This Anti Virus Is The Simplest And Most Effective Tool In My Opinion. **Compatible** With Windows, Mac, Chromebook, And Has A Browser Guard.
 
-[Spybot – Search & Destroy](https://www.safer-networking.org/) - A Simple Tool That Finds Any "Spys" In Your Computer System. 
+[Spybot – Search & Destroy](https://www.safer-networking.org/) - A Simple Tool That Finds Any "Spys" In Your Computer System. **Compatible** With Windows 10-7.
 ___
 
 **NICE APPS/TOOLS TO HAVE**
