@@ -14,7 +14,7 @@ ___
 
 [Glasswire](https://www.glasswire.com/) - Instantly see your current & past network activity. Detect malware, & block badly behaving apps. **Compatible** With Windows.
 
-PowerToys
+[PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. **Compatible** With Windows.
 ___
 
 
