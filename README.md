@@ -5,7 +5,9 @@ ___
 
 **ANTI MALWARE APPS/TOOLS**
 
-[Malwarebytes](https://www.malwarebytes.com/)
+[Malwarebytes](https://www.malwarebytes.com/) This Anti Virus Is The Simplest And Most Effective Tool In My Opinion. 
+
+[Spybot – Search & Destroy](https://www.safer-networking.org/) A Simple Tool That Finds Any "Spys" In Your Computer System. 
 ___
 
 **NICE APPS/TOOLS TO HAVE**
