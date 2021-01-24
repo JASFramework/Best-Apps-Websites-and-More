@@ -17,7 +17,14 @@ ___
 [PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. **Compatible** With Windows.
 ___
 
+**Development**
 
-GitHub Desktop
+[Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - Windows Terminal is a modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL. Its main features include multiple tabs, panes, Unicode and UTF-8 character support, a GPU accelerated text rendering engine, and custom themes, styles, and configurations.
 
-Muse Score 3
+[GitHub Desktop](https://desktop.github.com/) - Simplifies git development workflow.
+
+___
+
+**Desktop Publishing/Creation**
+
+[Muse Score 3](https://musescore.org/en) - Opensource, powerful and free music composition editor.
