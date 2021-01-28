@@ -1,6 +1,8 @@
 # Best-Apps-Websites-and-More
 
 **Apps and Tools: (Please Note That By "Apps/Tools" I Mean .EXE, .APK, .JS, .HTML, and More File Extension Types.)**
+
+*My partner and I have tried all of these Apps and Tools, no need to worry about a virus. Might be a good time to try a Anti Virus down below!*
 ___
 
 **Index**
