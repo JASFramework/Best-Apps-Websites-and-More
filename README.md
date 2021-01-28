@@ -61,4 +61,6 @@ ___
 
 [Muse Score 3](https://musescore.org/en) - Opensource, powerful and free music composition editor.
 
-[Back To Top](Best-Apps-Websites-and-More)
+___
+
+[Back To Top](#Best-Apps-Websites-and-More)
