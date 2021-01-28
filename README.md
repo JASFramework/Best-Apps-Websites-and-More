@@ -37,7 +37,9 @@ ___
 
 [Brave](https://brave.com/) - Brave is a free and open-source web browser developed by Brave Software, Inc. It blocks ads and website trackers and has a TOR window option. 
 
-[The TOR Project](https://www.torproject.org/) - TOR is a browser that is opensorce and protects your browsing. I trust TOR so use it! 
+*NOTE: TOR is more secure.*
+
+[The TOR Project](https://www.torproject.org/) - TOR is a browser that is open-source and protects your browsing. I trust TOR so use it! 
 ___
 
 # Desktop Publishing and Creation
