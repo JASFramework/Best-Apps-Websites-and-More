@@ -19,6 +19,8 @@ ___
 
 [System Monitoring](#System-Monitoring)
 
+[Text Editors](#Text-Editors)
+
 [VPN's and Privacy Tools](#VPN-and-Privacy-Tools)
 ___
 
