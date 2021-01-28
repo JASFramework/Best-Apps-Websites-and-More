@@ -69,6 +69,8 @@ ___
 
 *NOTE: I do not trust VPN's I think they sell our data. I use them to get around home blockers ha ah ha.*
 
+[The TOR Project](https://www.torproject.org/) - TOR is a browser that is opensorce and protects your browsing. I trust TOR so use it! 
+
 [WindScribe VPN](https://windscribe.com/) - A fast and free VPN. To start you get 2G a month. If you **sign up** you get **10G** a month. **Compatible** With Windows, Mac, Chrome, and has a browser extension.
 ___
 
