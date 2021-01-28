@@ -29,13 +29,20 @@ ___
 [Spybot – Search & Destroy](https://www.safer-networking.org/) - A Simple Tool That Finds Any "Spys" In Your Computer System. **Compatible** With Windows 10-7.
 ___
 
-# System Monitoring
+# Desktop Publishing and Creation
 
-*Nice tools to help you with your day*
+*I love music and trying new things! Try these.*
 
-[Glasswire](https://www.glasswire.com/) - Instantly see your current & past network activity. Detect malware, & block badly behaving apps. **Compatible** With Windows.
+[Muse Score 3](https://musescore.org/en) - Opensource, powerful and free music composition editor.
+___
 
-[PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. **Compatible** With Windows.
+# Development
+
+*Love coding? Me too! Try these tools out.*
+
+[Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - Windows Terminal is a modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL. Its main features include multiple tabs, panes, Unicode and UTF-8 character support, a GPU accelerated text rendering engine, and custom themes, styles, and configurations.
+
+[GitHub Desktop](https://desktop.github.com/) - Simplifies git development workflow.
 ___
 
 # System Data
@@ -47,22 +54,13 @@ ___
 [Moo0](moo0.com/software/AntiRecovery/) - This tool destroys files you have already deleted where they can never be recovered!
 ___
 
-# Development
+# System Monitoring
 
-*Love coding? Me too! Try these tools out.*
+*Nice tools to help you with your day*
 
-[Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - Windows Terminal is a modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL. Its main features include multiple tabs, panes, Unicode and UTF-8 character support, a GPU accelerated text rendering engine, and custom themes, styles, and configurations.
+[Glasswire](https://www.glasswire.com/) - Instantly see your current & past network activity. Detect malware, & block badly behaving apps. **Compatible** With Windows.
 
-[GitHub Desktop](https://desktop.github.com/) - Simplifies git development workflow.
-
-___
-
-# Desktop Publishing and Creation
-
-*I love music and trying new things! Try these.*
-
-[Muse Score 3](https://musescore.org/en) - Opensource, powerful and free music composition editor.
-
+[PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. **Compatible** With Windows.
 ___
 
 [Back To Top](#Best-Apps-Websites-and-More)
