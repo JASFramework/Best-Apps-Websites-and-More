@@ -76,6 +76,13 @@ ___
 [PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. **Compatible** With Windows.
 ___
 
+# Text Editors
+
+*For coders these are useful*
+
+[Atom](https://atom.io/) - Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in JavaScript, and embedded Git Control, developed by GitHub. Atom is a desktop application built using web technologies.
+___
+
 # VPN and Privacy Tools
 
 *NOTE: I do not trust VPN's I think they sell our data. I use them to get around home blockers ha ah ha.*
