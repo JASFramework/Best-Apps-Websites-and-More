@@ -48,6 +48,8 @@ ___
 
 *I love music and trying new things! Try these.*
 
+[Audacity](https://www.audacityteam.org/) - A free sound editor. I use it to make LOFI music. I have failed to make a good song so far. :(
+
 [Muse Score 3](https://musescore.org/en) - Opensource, powerful and free music composition editor.
 ___
 
