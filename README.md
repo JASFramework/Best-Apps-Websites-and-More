@@ -3,6 +3,19 @@
 **Apps and Tools: (Please Note That By "Apps/Tools" I Mean .EXE, .APK, .JS, .HTML, and More File Extension Types.)**
 ___
 
+**Index**
+
+[ANTI MALWARE APPS/TOOLS]()
+
+[Desktop Publishing/Creation]()
+
+[Development]()
+
+[System Data]()
+
+[System Monitoring]()
+___
+
 **ANTI MALWARE APPS/TOOLS**
 
 [Malwarebytes](https://www.malwarebytes.com/) - This Anti Virus Is The Simplest And Most Effective Tool In My Opinion. **Compatible** With Windows, Mac, Chromebook, And Has A Browser Guard.
