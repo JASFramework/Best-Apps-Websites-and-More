@@ -49,6 +49,6 @@ ___
 
 ___
 
-#Desk**Desktop Publishing/Creation**
+#desk **Desktop Publishing/Creation**
 
 [Muse Score 3](https://musescore.org/en) - Opensource, powerful and free music composition editor.
