@@ -31,6 +31,15 @@ ___
 [Spybot – Search & Destroy](https://www.safer-networking.org/) - A Simple Tool That Finds Any "Spys" In Your Computer System. **Compatible** With Windows 10-7.
 ___
 
+# Browsers
+
+*These are browsers that are as good as google but more private.*
+
+[Brave](https://brave.com/) - Brave is a free and open-source web browser developed by Brave Software, Inc. It blocks ads and website trackers and has a TOR window option. 
+
+[The TOR Project](https://www.torproject.org/) - TOR is a browser that is opensorce and protects your browsing. I trust TOR so use it! 
+___
+
 # Desktop Publishing and Creation
 
 *I love music and trying new things! Try these.*
