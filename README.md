@@ -5,6 +5,8 @@ ___
 
 **Index**
 
+*This Index Does NOT Work Right Now. Thank You.*
+
 [ANTI MALWARE APPS/TOOLS]()
 
 [Desktop Publishing/Creation]()
@@ -17,6 +19,8 @@ ___
 ___
 
 **ANTI MALWARE APPS/TOOLS**
+
+*I had COVID-19. You know what I did? I turned on my Anti Virus and BOOM it was gone.*
 
 [Malwarebytes](https://www.malwarebytes.com/) - This Anti Virus Is The Simplest And Most Effective Tool In My Opinion. **Compatible** With Windows, Mac, Chromebook, And Has A Browser Guard.
 
@@ -43,6 +47,8 @@ ___
 
 **Development**
 
+*Love coding? Me too! Try these tools out.*
+
 [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - Windows Terminal is a modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL. Its main features include multiple tabs, panes, Unicode and UTF-8 character support, a GPU accelerated text rendering engine, and custom themes, styles, and configurations.
 
 [GitHub Desktop](https://desktop.github.com/) - Simplifies git development workflow.
@@ -51,4 +57,8 @@ ___
 
 **Desktop Publishing/Creation**
 
+*I love music and trying new things! Try these.*
+
 [Muse Score 3](https://musescore.org/en) - Opensource, powerful and free music composition editor.
+
+[Back To Top](Best-Apps-Websites-and-More)
