@@ -19,7 +19,7 @@ ___
 
 [System Monitoring](#System-Monitoring)
 
-[VPN's and Privacy Tools](#VPN's-and-Privacy-Tools)
+[VPN's and Privacy Tools](#VPN-and-Privacy-Tools)
 ___
 
 # ANTI MALWARE APPS and TOOLS
@@ -76,7 +76,7 @@ ___
 [PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. **Compatible** With Windows.
 ___
 
-# VPN's and Privacy Tools
+# VPN and Privacy Tools
 
 *NOTE: I do not trust VPN's I think they sell our data. I use them to get around home blockers ha ah ha.*
 
