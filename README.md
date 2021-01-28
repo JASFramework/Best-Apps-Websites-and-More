@@ -7,7 +7,7 @@ ___
 
 [ANTI MALWARE APPS/TOOLS](#Anti)
 
-[Desktop Publishing/Creation](#Desk)
+[Desktop Publishing/Creation](#desk)
 
 [Development](#Dev)
 
