@@ -16,14 +16,14 @@ ___
 [System Monitoring](#Mon)
 ___
 
-**[ANTI MALWARE APPS/TOOLS](#Anti)**
+**ANTI MALWARE APPS/TOOLS**
 
 [Malwarebytes](https://www.malwarebytes.com/) - This Anti Virus Is The Simplest And Most Effective Tool In My Opinion. **Compatible** With Windows, Mac, Chromebook, And Has A Browser Guard.
 
 [Spybot – Search & Destroy](https://www.safer-networking.org/) - A Simple Tool That Finds Any "Spys" In Your Computer System. **Compatible** With Windows 10-7.
 ___
 
-**[System Monitoring](#Mon)**
+**System Monitoring**
 
 *Nice tools to help you with your day*
 
@@ -32,7 +32,7 @@ ___
 [PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. **Compatible** With Windows.
 ___
 
-**[System Data](#Data)**
+**System Data**
 
 *Ah I love not leaving any tracks. You should too!*
 
@@ -41,7 +41,7 @@ ___
 [Moo0](moo0.com/software/AntiRecovery/) - This tool destroys files you have already deleted where they can never be recovered!
 ___
 
-**[Development](#Dev)**
+**Development**
 
 [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - Windows Terminal is a modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL. Its main features include multiple tabs, panes, Unicode and UTF-8 character support, a GPU accelerated text rendering engine, and custom themes, styles, and configurations.
 
@@ -49,6 +49,6 @@ ___
 
 ___
 
-**[Desktop Publishing/Creation](#Desk)**
+#Desk**Desktop Publishing/Creation**
 
 [Muse Score 3](https://musescore.org/en) - Opensource, powerful and free music composition editor.
