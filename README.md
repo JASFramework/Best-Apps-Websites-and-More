@@ -5,15 +5,15 @@ ___
 
 **Index**
 
-[ANTI MALWARE APPS/TOOLS](#Anti)
+[ANTI MALWARE APPS/TOOLS]()
 
-[Desktop Publishing/Creation](#desk)
+[Desktop Publishing/Creation]()
 
-[Development](#Dev)
+[Development]()
 
-[System Data](#Data)
+[System Data]()
 
-[System Monitoring](#Mon)
+[System Monitoring]()
 ___
 
 **ANTI MALWARE APPS/TOOLS**
@@ -49,6 +49,6 @@ ___
 
 ___
 
-#desk **Desktop Publishing/Creation**
+**Desktop Publishing/Creation**
 
 [Muse Score 3](https://musescore.org/en) - Opensource, powerful and free music composition editor.
