@@ -7,20 +7,20 @@ ___
 
 **Index**
 
-*This Index Does NOT Work Right Now. Thank You.*
+*This Index Does Work Now.*
 
-[ANTI MALWARE APPS/TOOLS]()
+[ANTI MALWARE APPS/TOOLS](#ANTI-MALWARE-APPS-and-TOOLS)
 
-[Desktop Publishing/Creation]()
+[Desktop Publishing/Creation](#Desktop-Publishing-and-Creation)
 
-[Development]()
+[Development](#Development)
 
-[System Data]()
+[System Data](#System-Data)
 
-[System Monitoring]()
+[System Monitoring](#System-Monitoring)
 ___
 
-**ANTI MALWARE APPS/TOOLS**
+# ANTI MALWARE APPS and TOOLS
 
 *I had COVID-19. You know what I did? I turned on my Anti Virus and BOOM it was gone.*
 
@@ -29,7 +29,7 @@ ___
 [Spybot – Search & Destroy](https://www.safer-networking.org/) - A Simple Tool That Finds Any "Spys" In Your Computer System. **Compatible** With Windows 10-7.
 ___
 
-**System Monitoring**
+# System Monitoring
 
 *Nice tools to help you with your day*
 
@@ -38,7 +38,7 @@ ___
 [PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. **Compatible** With Windows.
 ___
 
-**System Data**
+# System Data
 
 *Ah I love not leaving any tracks. You should too!*
 
@@ -47,7 +47,7 @@ ___
 [Moo0](moo0.com/software/AntiRecovery/) - This tool destroys files you have already deleted where they can never be recovered!
 ___
 
-**Development**
+# Development
 
 *Love coding? Me too! Try these tools out.*
 
@@ -57,7 +57,7 @@ ___
 
 ___
 
-**Desktop Publishing/Creation**
+# Desktop Publishing and Creation
 
 *I love music and trying new things! Try these.*
 
