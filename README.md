@@ -59,6 +59,10 @@ ___
 
 [GitHub Desktop](https://desktop.github.com/) - Simplifies git development workflow.
 
+[Visual Code](https://visualstudio.microsoft.com/) - Similar to the tool below this is a powerful editor and works on every OS.
+
+[Visual Stuido](https://visualstudio.microsoft.com/) - A powerful editor with many helpful tools. I personally made a browser in 10 mins with this.
+
 [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - Windows Terminal is a modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL. Its main features include multiple tabs, panes, Unicode and UTF-8 character support, a GPU accelerated text rendering engine, and custom themes, styles, and configurations.
 ___
 
