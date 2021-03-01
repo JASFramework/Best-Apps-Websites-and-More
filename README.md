@@ -57,7 +57,9 @@ ___
 
 *Love coding? Me too! Try these tools out.*
 
-[Electron](https://www.electronjs.org/) - Electron is super cool. It allows you to take your HTML, CSS, and Java Script project to an .exe format.
+[Dev Tools](https://developertools.app/) - View all languages, libraries & frameworks documentations.
+
+[Electron](https://www.electronjs.org/) - Electron is super cool. It allows you to take your HTML, CSS, and Java Script project to an .exe/.app format.
 
 [GitHub Desktop](https://desktop.github.com/) - Simplifies git development workflow.
 
